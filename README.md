@@ -37,14 +37,8 @@ Description:
 Implements a Complex class for performing arithmetic operations on complex numbers
 (addition, subtraction, multiplication, division) and comparing magnitudes.
 
-Example Output:
 
-Enter a and b for the complex number a + bi: 3 4
-Enter c and d for the complex number c + di: 1 2
 
-c1 = 3.0 + 4.0i and c2 = 1.0 + 2.0i
-c1 + c2 = 4.0 + 6.0i
-c1 - c2 = 2.0 + 2.0i
 c1 * c2 = -5.0 + 10.0i
 c1 / c2 = 2.2 - 0.4i
 |c1| = 5.0
