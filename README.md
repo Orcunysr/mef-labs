@@ -39,7 +39,3 @@ Implements a Complex class for performing arithmetic operations on complex numbe
 
 
 
-c1 * c2 = -5.0 + 10.0i
-c1 / c2 = 2.2 - 0.4i
-|c1| = 5.0
-
