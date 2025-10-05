@@ -7,3 +7,20 @@ Each week includes a separate folder with Java source files and related test cod
 ---
 
 ## 📁 Folder Structure
+
+
+---
+
+## 📘 Week 1: Complex Numbers
+
+**Topics Covered:**
+- Object-Oriented Programming (OOP)
+- Classes and Objects
+- Method overloading and overriding
+- Interfaces (`Comparable`, `Cloneable`)
+
+**Description:**
+Implements a `Complex` class for performing arithmetic operations on complex numbers  
+(addition, subtraction, multiplication, division) and comparing magnitudes.
+
+**Example Output:**
