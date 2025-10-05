@@ -21,19 +21,6 @@ You can compile and run the project using any Java IDE (e.g., IntelliJ IDEA) or 
 javac src/Week1/*.java
 java Week1.Lab1TestCode
 
-mef-labs/
-│
-├── src/
-│   ├── Week1/
-│   │   ├── Complex.java
-│   │   ├── Lab1TestCode.java
-│   │   └── Main.java
-│   ├── Week2/
-│   │   └── ...
-│
-├── .gitignore
-└── README.md
-
 
 
 ⸻
